@@ -1,4 +1,4 @@
-# Laboratory 03: View
+# Laboratory 06: View
 
 ## Details
 
