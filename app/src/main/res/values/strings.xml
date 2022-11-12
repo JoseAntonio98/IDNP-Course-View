@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Laboratorio06</string>
+
+    <!-- Menu Activity -->
+    <string name="button_label1">Grafico Circular</string>
+    <string name="button_label2">Grafico Barras</string>
+
 </resources>
